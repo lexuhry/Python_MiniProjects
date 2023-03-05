@@ -1,7 +1,7 @@
 # Python_MiniProjects
 Various mini Python Projects
 
-#First Project - Tip Calculator
+# First Project - Tip Calculator
 Written in Python to calculate the tip amount based on the number of people, total bill, and percentage of tip inputed by user.
 
 # Second Project - Roller Coaster Height
